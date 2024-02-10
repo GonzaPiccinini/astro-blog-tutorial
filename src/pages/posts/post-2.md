@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'My Second Blog Post'
-pubDate: 2022-07-01
+pubDate: 2024-05-02
 description: 'This is the second post of my new Astro blog.'
 author: 'Gonzalo Piccinini'
 image:
